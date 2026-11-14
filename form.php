@@ -13,6 +13,9 @@
         <label for="email">Email:</label>
         <input type="email" id="email" name="email" required>
         <br><br>
+        <label for="address">Address:</label>
+        <input type="text" id=address" name="address" required>
+        <br> <br>
         <input type="submit" value="Submit">
     </form>
 </body>
